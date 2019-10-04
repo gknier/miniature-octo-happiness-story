@@ -8,4 +8,5 @@ This is the start of my story. -Zhengyang(Allen) Guo
 Once upon a time there was a cs student named Deb. 
 She still  remembers her very first day in cs 200.
 At that time, she only knew Python. As a result, she was annoyed
-by the fact that she had to declare variable types. 
+by the fact that she had to declare variable types. However, she got
+used to it quickly and excelled in cs 200. 
