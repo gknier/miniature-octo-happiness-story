@@ -11,3 +11,5 @@ At that time, she only knew Python. As a result, she was annoyed
 by the fact that she had to declare variable types. However, she got
 used to it quickly and excelled in cs 200.
 Then she became more interested in CS and felt more confident about coding. 
+Eventually, she decided to become a professor to ensure her students would feel
+the same frustration she once did.
